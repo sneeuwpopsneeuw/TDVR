@@ -1,0 +1,92 @@
+#
+#
+#
+
+newmtl mech_right_upper_leg_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_right_lower_leg_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_right_ankle_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_right_toe_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_main_body_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_neck_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_head_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_left_upper_leg_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_left_lower_leg_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_left_ankle_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
+newmtl mech_left_toe_mech_patrolbot
+illum 2
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+map_Kd mech_patrolbot_diffuse.PNG
+
