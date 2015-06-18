@@ -33,6 +33,15 @@ ModelImporter:
     100054: Plane_002
     100056: Plane_003
     100058: Cylinder_002
+    100060: tree_1_001
+    100062: tree_1_002
+    100064: tree_1_003
+    100066: tree_green_1
+    100068: tree_green_2
+    100070: tree_green_2_001
+    100072: tree_green_2_002
+    100074: tree_red_1
+    100076: Icosphere_001
     400000: //RootNode
     400002: Icosphere
     400004: Sphere
@@ -63,6 +72,15 @@ ModelImporter:
     400054: Plane_002
     400056: Plane_003
     400058: Cylinder_002
+    400060: tree_1_001
+    400062: tree_1_002
+    400064: tree_1_003
+    400066: tree_green_1
+    400068: tree_green_2
+    400070: tree_green_2_001
+    400072: tree_green_2_002
+    400074: tree_red_1
+    400076: Icosphere_001
     2300000: //RootNode
     2300002: Icosphere
     2300004: Sphere
@@ -93,6 +111,15 @@ ModelImporter:
     2300054: Plane_002
     2300056: Plane_003
     2300058: Cylinder_002
+    2300060: tree_1_001
+    2300062: tree_1_002
+    2300064: tree_1_003
+    2300066: tree_green_1
+    2300068: tree_green_2
+    2300070: tree_green_2_001
+    2300072: tree_green_2_002
+    2300074: tree_red_1
+    2300076: Icosphere_001
     3300000: //RootNode
     3300002: Icosphere
     3300004: Sphere
@@ -123,6 +150,15 @@ ModelImporter:
     3300054: Plane_002
     3300056: Plane_003
     3300058: Cylinder_002
+    3300060: tree_1_001
+    3300062: tree_1_002
+    3300064: tree_1_003
+    3300066: tree_green_1
+    3300068: tree_green_2
+    3300070: tree_green_2_001
+    3300072: tree_green_2_002
+    3300074: tree_red_1
+    3300076: Icosphere_001
     4300000: Cube
     4300002: Icosphere
     4300004: Cylinder
@@ -152,10 +188,19 @@ ModelImporter:
     4300052: Plane_003
     4300054: Plane_002
     4300056: Cylinder_002
+    4300058: tree_1_002
+    4300060: tree_1_001
+    4300062: tree_1_003
+    4300064: tree_green_1
+    4300066: tree_green_2
+    4300068: tree_green_2_001
+    4300070: tree_green_2_002
+    4300072: tree_red_1
+    4300074: Icosphere_001
     7400000: Default Take
     9500000: //RootNode
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -163,6 +208,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -173,7 +222,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.5
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

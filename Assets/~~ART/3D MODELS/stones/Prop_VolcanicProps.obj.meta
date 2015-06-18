@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b42e1979454ad324d8dfdde761db57d6
+timeCreated: 1434646361
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arctic_Rock4_group2
+    100002: group1_LavaVertical1
+    100004: group1_LavaVertical2
+    100006: group1_LavaVertical3
+    100008: group1_LavaVertical4
+    100010: group1_LavaVertical5
+    100012: group1_polySurface2
+    100014: group1_polySurface484
+    100016: group1_pPlane1
+    100018: group1_pPlane2
+    100020: group1_Volcanic_Crater1
+    100022: group1_Volcanic_Crater2
+    100024: group1_Volcanic_Flow1
+    100026: group1_Volcanic_Flow2
+    100028: group1_Volcanic_Rock2
+    100030: group1_Volcanic_Rock3
+    100032: group1_Volcanic_Rock4
+    100034: group2_Arctic_Rock1
+    100036: group2_Arctic_Rock2
+    100038: group2_Arctic_Rock3
+    100040: group2_Arctic_RockWall1
+    100042: group2_polySurface486
+    100044: group2_pTorus8
+    100046: polySurface1_group1
+    100048: //RootNode
+    400000: Arctic_Rock4_group2
+    400002: group1_LavaVertical1
+    400004: group1_LavaVertical2
+    400006: group1_LavaVertical3
+    400008: group1_LavaVertical4
+    400010: group1_LavaVertical5
+    400012: group1_polySurface2
+    400014: group1_polySurface484
+    400016: group1_pPlane1
+    400018: group1_pPlane2
+    400020: group1_Volcanic_Crater1
+    400022: group1_Volcanic_Crater2
+    400024: group1_Volcanic_Flow1
+    400026: group1_Volcanic_Flow2
+    400028: group1_Volcanic_Rock2
+    400030: group1_Volcanic_Rock3
+    400032: group1_Volcanic_Rock4
+    400034: group2_Arctic_Rock1
+    400036: group2_Arctic_Rock2
+    400038: group2_Arctic_Rock3
+    400040: group2_Arctic_RockWall1
+    400042: group2_polySurface486
+    400044: group2_pTorus8
+    400046: polySurface1_group1
+    400048: //RootNode
+    2300000: Arctic_Rock4_group2
+    2300002: group1_LavaVertical1
+    2300004: group1_LavaVertical2
+    2300006: group1_LavaVertical3
+    2300008: group1_LavaVertical4
+    2300010: group1_LavaVertical5
+    2300012: group1_polySurface2
+    2300014: group1_polySurface484
+    2300016: group1_pPlane1
+    2300018: group1_pPlane2
+    2300020: group1_Volcanic_Crater1
+    2300022: group1_Volcanic_Crater2
+    2300024: group1_Volcanic_Flow1
+    2300026: group1_Volcanic_Flow2
+    2300028: group1_Volcanic_Rock2
+    2300030: group1_Volcanic_Rock3
+    2300032: group1_Volcanic_Rock4
+    2300034: group2_Arctic_Rock1
+    2300036: group2_Arctic_Rock2
+    2300038: group2_Arctic_Rock3
+    2300040: group2_Arctic_RockWall1
+    2300042: group2_polySurface486
+    2300044: group2_pTorus8
+    2300046: polySurface1_group1
+    3300000: Arctic_Rock4_group2
+    3300002: group1_LavaVertical1
+    3300004: group1_LavaVertical2
+    3300006: group1_LavaVertical3
+    3300008: group1_LavaVertical4
+    3300010: group1_LavaVertical5
+    3300012: group1_polySurface2
+    3300014: group1_polySurface484
+    3300016: group1_pPlane1
+    3300018: group1_pPlane2
+    3300020: group1_Volcanic_Crater1
+    3300022: group1_Volcanic_Crater2
+    3300024: group1_Volcanic_Flow1
+    3300026: group1_Volcanic_Flow2
+    3300028: group1_Volcanic_Rock2
+    3300030: group1_Volcanic_Rock3
+    3300032: group1_Volcanic_Rock4
+    3300034: group2_Arctic_Rock1
+    3300036: group2_Arctic_Rock2
+    3300038: group2_Arctic_Rock3
+    3300040: group2_Arctic_RockWall1
+    3300042: group2_polySurface486
+    3300044: group2_pTorus8
+    3300046: polySurface1_group1
+    4300000: Arctic_Rock4_group2
+    4300002: group1_LavaVertical1
+    4300004: group1_LavaVertical2
+    4300006: group1_LavaVertical3
+    4300008: group1_LavaVertical4
+    4300010: group1_LavaVertical5
+    4300012: group1_polySurface2
+    4300014: group1_polySurface484
+    4300016: group1_pPlane1
+    4300018: group1_pPlane2
+    4300020: group1_Volcanic_Crater1
+    4300022: group1_Volcanic_Crater2
+    4300024: group1_Volcanic_Flow1
+    4300026: group1_Volcanic_Flow2
+    4300028: group1_Volcanic_Rock2
+    4300030: group1_Volcanic_Rock3
+    4300032: group1_Volcanic_Rock4
+    4300034: group2_Arctic_Rock1
+    4300036: group2_Arctic_Rock2
+    4300038: group2_Arctic_Rock3
+    4300040: group2_Arctic_RockWall1
+    4300042: group2_polySurface486
+    4300044: group2_pTorus8
+    4300046: polySurface1_group1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
